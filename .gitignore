@@ -1,0 +1,8 @@
+touch .gitignore
+
+*.pyc
+*.csv
+.idea
+.xml
+node_modules
+
