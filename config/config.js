@@ -12,6 +12,6 @@ module.exports = {
 
     rootPath: rootPath,
     port: 443,
-    expressSecret: ' this is the express secret',
+    expressSecret: 'Put here some secret for cryptoraphy',
 
 }
